@@ -1,0 +1,11 @@
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\bin\Debug\net8.0\Sale.Domain.deps.json
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\bin\Debug\net8.0\Sale.Domain.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\bin\Debug\net8.0\Sale.Domain.pdb
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\Sale.Domain.GeneratedMSBuildEditorConfig.editorconfig
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\Sale.Domain.AssemblyInfoInputs.cache
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\Sale.Domain.AssemblyInfo.cs
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\Sale.Domain.csproj.CoreCompileInputs.cache
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\Sale.Domain.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\refint\Sale.Domain.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\Sale.Domain.pdb
+X:\SALE\IATEC.Hub.Sale.api\Sale.Domain\obj\Debug\net8.0\ref\Sale.Domain.dll

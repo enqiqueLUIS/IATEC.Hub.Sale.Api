@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75d589e9_002De081_002D4f27_002D8689_002Df5f11be12979/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SaleServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79989522-9BBD-442F-89B9-CEA810C5AAF6::net8.0::Sale.Domain.Test.SaleServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79989522-9BBD-442F-89B9-CEA810C5AAF6::net8.0::Sale.Domain.Test.DishServiceTests.GetDishById_ShouldReturnNotFound_WhenIdDoesNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79989522-9BBD-442F-89B9-CEA810C5AAF6::net8.0::Sale.Domain.Test.DishServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79989522-9BBD-442F-89B9-CEA810C5AAF6::net8.0::Sale.Domain.Test.PaymentMethodServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::79989522-9BBD-442F-89B9-CEA810C5AAF6::net8.0::Sale.Domain.Test.SaleDetailServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,15 @@
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\bin\Debug\net8.0\Sale.Application.deps.json
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\bin\Debug\net8.0\Sale.Application.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\bin\Debug\net8.0\Sale.Application.pdb
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\bin\Debug\net8.0\Sale.Domain.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\bin\Debug\net8.0\Sale.Domain.pdb
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.csproj.AssemblyReference.cache
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.GeneratedMSBuildEditorConfig.editorconfig
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.AssemblyInfoInputs.cache
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.AssemblyInfo.cs
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.csproj.CoreCompileInputs.cache
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.App.E72A59B5.Up2Date
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\refint\Sale.Application.dll
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\Sale.Application.pdb
+X:\SALE\IATEC.Hub.Sale.api\Sale.Application\obj\Debug\net8.0\ref\Sale.Application.dll
