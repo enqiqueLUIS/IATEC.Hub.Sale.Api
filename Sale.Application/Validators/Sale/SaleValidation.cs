@@ -8,7 +8,7 @@ public class SaleValidation : AbstractValidator<SaleModel>
     public SaleValidation()
     {
         RuleFor(x => x.SaleDate.Date)
-            .NotEmpty().WithMessage("La fecha de venta no puede estar vacía.")
+            .NotEmpty().WithMessage("La fecha de venta no puede ser vacía.")
             .LessThanOrEqualTo(DateTime.Today).WithMessage("La fecha de venta no puede ser en el futuro.");
 
         RuleFor(x => x.Total)
