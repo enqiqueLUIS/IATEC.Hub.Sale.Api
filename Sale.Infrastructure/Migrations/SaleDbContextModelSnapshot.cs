@@ -39,7 +39,7 @@ namespace Sale.Infrastructure.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasColumnType("varchar(255)")
+                        .HasColumnType("varchar(max)")
                         .HasColumnName("description");
 
                     b.Property<int>("LastModifiedBy")
