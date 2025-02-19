@@ -19,6 +19,6 @@ public class DishValidation : AbstractValidator<DishModel>
 
         RuleFor(x => x.Description)
             .NotEmpty().WithMessage("La descripción no puede estar vacía.")
-            .MaximumLength(255).WithMessage("La descripción no puede tener más de 255 caracteres.");
+            .MaximumLength(10000).WithMessage("La descripción no puede tener más de 10,000 caracteres.");
     }
 }

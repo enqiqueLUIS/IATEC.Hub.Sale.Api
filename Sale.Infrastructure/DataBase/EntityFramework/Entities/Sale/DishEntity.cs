@@ -18,7 +18,7 @@ public class DishEntity : BaseEntity, IIdentifiable
     [Column("price", TypeName = "decimal(10,2)")]
     public decimal Price { get; set; }
 
-    [Column("description", TypeName = "varchar(255)")]
+    [Column("description", TypeName = "varchar(max)")]
     public string Description { get; set; }
 
     public virtual ICollection<SaleDetailEntity> SaleDetails { get; set; }
